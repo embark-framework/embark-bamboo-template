@@ -1,6 +1,6 @@
 {
   "name": "embark-bamboo-template",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "",
   "scripts": {
     "test": "embark test"
@@ -10,7 +10,7 @@
   "homepage": "",
   "devDependencies": {},
   "dependencies": {
-    "embark": "^3.1.5",
-    "embark-bamboo": "^1.0.0"
+    "embark-bamboo": "2.1.0",
+    "embarkjs-connector-web3": "4.0.0"
   }
 }
